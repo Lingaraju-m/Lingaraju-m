@@ -1,8 +1,3 @@
-Here's your updated GitHub profile README with Java skills and your LinkedIn link:
-
-
----
-
 👋 Hey there, I'm Lingaraju M!
 
 🚀 Passionate Full Stack Developer | 💻 Tech Enthusiast | 📈 Lifelong Learner
