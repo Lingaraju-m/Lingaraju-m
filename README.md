@@ -3,7 +3,7 @@
 
 ## 💫 About Me
 
-👨‍💻 I'm currently working as an **Assistant System Engineer at Tata Consultancy Services (TCS)**, building and maintaining enterprise applications using Microsoft's technology stack.
+👨‍💻 I'm currently working as an **Software Engineer at Tata Consultancy Services (TCS)**, building and maintaining enterprise applications using Microsoft's technology stack.
 
 💙 I enjoy developing scalable backend systems, solving real-world business problems, and writing clean, maintainable code.
 
@@ -49,7 +49,7 @@
 
 # 💼 Professional Experience
 
-### Assistant System Engineer | Tata Consultancy Services (TCS)
+### Software Engineer | Tata Consultancy Services (TCS)
 
 * Developed and maintained enterprise web applications using .NET technologies.
 * Built Controllers, Models, Views, and business logic using ASP.NET MVC.
