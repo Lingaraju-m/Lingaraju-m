@@ -1,5 +1,4 @@
 # 👋 Hey there, I'm Lingaraju M!
-
 ### 🚀 Software Engineer | .NET Developer | Backend Enthusiast | Lifelong Learner
 
 ---
