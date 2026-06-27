@@ -1,8 +1,6 @@
 # 👋 Hey there, I'm Lingaraju M!
 ### 🚀 Software Engineer | .NET Developer | Backend Enthusiast | Lifelong Learner
 
----
-
 ## 💫 About Me
 
 👨‍💻 I'm currently working as an **Assistant System Engineer at Tata Consultancy Services (TCS)**, building and maintaining enterprise applications using Microsoft's technology stack.
@@ -12,8 +10,6 @@
 🌱 I'm continuously improving my skills in **ASP.NET MVC, .NET, SQL, Cloud Technologies (AWS)**, and modern software development practices.
 
 🎯 My goal is to become a highly skilled Backend/.NET Engineer capable of designing scalable and high-performance applications.
-
----
 
 # 🛠️ Tech Stack
 
@@ -25,8 +21,6 @@
 * HTML
 * CSS
 
----
-
 ## ⚙️ Frameworks & Technologies
 
 * ASP.NET MVC
@@ -34,22 +28,16 @@
 * ADO.NET
 * REST APIs
 
----
-
 ## 🗄️ Databases
 
 * SQL Server
 * PostgreSQL
-
----
 
 ## ☁️ Cloud & DevOps
 
 * AWS (Learning)
 * Azure DevOps
 * Git & GitHub
-
----
 
 ## 🔧 Tools
 
@@ -58,8 +46,6 @@
 * SQL Server Management Studio (SSMS)
 * pgAdmin
 * Postman
-
----
 
 # 💼 Professional Experience
 
@@ -72,8 +58,6 @@
 * Debugged production issues and enhanced existing application features.
 * Participated in Agile ceremonies and collaborated with cross-functional teams.
 * Worked with Azure DevOps for source control and deployment activities.
-
----
 
 # 🚀 Projects
 
@@ -93,9 +77,7 @@ Java-based application implementing object-oriented programming concepts and acc
 
 A responsive website designed for educational institutions with admission information, course details, and contact management.
 
----
-
-# 🌱 Currently Learning
+# 🌱 Continous Learning
 
 * Advanced ASP.NET MVC
 * ASP.NET Web API
@@ -105,13 +87,9 @@ A responsive website designed for educational institutions with admission inform
 * AWS Cloud Services
 * System Design
 
----
-
 # 📈 GitHub Stats
 
 I enjoy building projects, learning new technologies, and contributing consistently to improve my development skills.
-
----
 
 # 📫 Let's Connect
 
@@ -120,7 +98,5 @@ I enjoy building projects, learning new technologies, and contributing consisten
 💻 **GitHub:** https://github.com/Lingaraju-m
 
 💼 **LinkedIn:** https://www.linkedin.com/in/lingaraju-m-6a4233222
-
----
 
  **"Building scalable software, continuously learning, and turning ideas into reliable solutions."** 🚀
