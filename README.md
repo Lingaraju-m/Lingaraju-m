@@ -1,89 +1,127 @@
-👋 Hey there, I'm Lingaraju M!
+# 👋 Hey there, I'm Lingaraju M!
 
-🚀 Passionate Full Stack Developer | 💻 Tech Enthusiast | 📈 Lifelong Learner
+### 🚀 Software Engineer | .NET Developer | Backend Enthusiast | Lifelong Learner
 
-----------------------------------------
+---
 
-About Me
+## 💫 About Me
 
-👀 I’m deeply interested in Full Stack Development and Scalable Web Applications.
+👨‍💻 I'm currently working as an **Assistant System Engineer at Tata Consultancy Services (TCS)**, building and maintaining enterprise applications using Microsoft's technology stack.
 
-🌱 Currently working at TCS.
+💙 I enjoy developing scalable backend systems, solving real-world business problems, and writing clean, maintainable code.
 
-🛠️ Skilled in Java, Spring Boot, React.js, Node.js, Express.js, MongoDB, SQL, JavaScript, HTML, CSS.
+🌱 I'm continuously improving my skills in **ASP.NET MVC, .NET, SQL, Cloud Technologies (AWS)**, and modern software development practices.
 
-💡 Love solving real-world problems through clean code and optimized backend systems.
+🎯 My goal is to become a highly skilled Backend/.NET Engineer capable of designing scalable and high-performance applications.
 
-📚 Constantly learning new technologies and staying up to date with industry trends.
+---
 
-----------------------------------------
+# 🛠️ Tech Stack
 
-🔧 Technologies & Tools
+## 💻 Languages
 
-🖥️ Languages
+* C#
+* SQL
+* JavaScript
+* HTML
+* CSS
 
-•Java
+---
 
-•JavaScript
+## ⚙️ Frameworks & Technologies
 
-•SQL
+* ASP.NET MVC
+* .NET
+* ADO.NET
+* REST APIs
 
-•HTML & CSS
+---
 
-----------------------------------------
+## 🗄️ Databases
 
-⚙️ Frameworks & Libraries
+* SQL Server
+* PostgreSQL
 
-° Spring Boot
+---
 
-° React.js
+## ☁️ Cloud & DevOps
 
-° Node.js
+* AWS (Learning)
+* Azure DevOps
+* Git & GitHub
 
-° Express.js
+---
 
-----------------------------------------
+## 🔧 Tools
 
-🗄️ Databases
+* Visual Studio
+* Visual Studio Code
+* SQL Server Management Studio (SSMS)
+* pgAdmin
+* Postman
 
-* MongoDB
+---
 
-* MySQL
-  
-----------------------------------------
+# 💼 Professional Experience
 
-🛠️ Tools & Platforms
+### Assistant System Engineer | Tata Consultancy Services (TCS)
 
-` Git & GitHub
+* Developed and maintained enterprise web applications using .NET technologies.
+* Built Controllers, Models, Views, and business logic using ASP.NET MVC.
+* Worked with SQL Server and PostgreSQL for database development and optimization.
+* Integrated backend APIs with frontend modules.
+* Debugged production issues and enhanced existing application features.
+* Participated in Agile ceremonies and collaborated with cross-functional teams.
+* Worked with Azure DevOps for source control and deployment activities.
 
-` Postman
+---
 
-` Visual Studio Code
+# 🚀 Projects
 
-` Eclipse
+### 🏥 Hospital Appointment Scheduling System
 
-----------------------------------------
+A full-stack appointment booking system with doctor scheduling, appointment management, reminders, and admin dashboard.
 
-🌟 My Work
+### 📰 Live News Application
 
-🚀 Projects I've built & contributed to:
+Real-time news application featuring API integration, category filtering, search functionality, and responsive UI.
 
-📝 Employee Management System – React-based project with useState, Context API, and Local Storage integration.
+### 🏦 Bank Account Management System
 
-📰 Live News App – React-based real-time news application using API integration, with dark/light mode and custom time range features.
+Java-based application implementing object-oriented programming concepts and account management features.
 
-✅ To-Do Application (MERN) – A full-stack project to manage daily tasks efficiently.
+### 🌐 College Website
 
-🏦 Bank Account Management (Java) – A Java-based project for handling bank transactions and user authentication.
+A responsive website designed for educational institutions with admission information, course details, and contact management.
 
-----------------------------------------
+---
 
-📫 Let's Connect
+# 🌱 Currently Learning
 
-💌 Email: mlingaraju88@gmail.com
-🌍 GitHub: @Lingaraju-m
-🔗 LinkedIn: https://www.linkedin.com/in/lingaraju-m-6a4233222
+* Advanced ASP.NET MVC
+* ASP.NET Web API
+* Entity Framework
+* Clean Architecture
+* Design Patterns
+* AWS Cloud Services
+* System Design
 
+---
 
-⚡ "Striving to build impactful and scalable applications, one line of code at a time!"
+# 📈 GitHub Stats
 
+I enjoy building projects, learning new technologies, and contributing consistently to improve my development skills.
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email:** [mlingaraju88@gmail.com](mailto:mlingaraju88@gmail.com)
+
+💻 **GitHub:** https://github.com/Lingaraju-m
+
+💼 **LinkedIn:** https://www.linkedin.com/in/lingaraju-m-6a4233222
+
+---
+
+ **"Building scalable software, continuously learning, and turning ideas into reliable solutions."** 🚀
