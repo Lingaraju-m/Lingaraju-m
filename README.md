@@ -27,6 +27,9 @@
 * .NET
 * ADO.NET
 * REST APIs
+* Advanced ASP.NET MVC
+* ASP.NET Web API
+* Entity Framework
 
 ## 🗄️ Databases
 
@@ -70,7 +73,7 @@ Real-time news application featuring API integration, category filtering, search
 
 ### 🏦 Bank Account Management System
 
-Java-based application implementing object-oriented programming concepts and account management features.
+C#-based application implementing object-oriented programming concepts and account management features.
 
 ### 🌐 College Website
 
@@ -78,9 +81,6 @@ A responsive website designed for educational institutions with admission inform
 
 # 🌱 Continous Learning
 
-* Advanced ASP.NET MVC
-* ASP.NET Web API
-* Entity Framework
 * Clean Architecture
 * Design Patterns
 * AWS Cloud Services
