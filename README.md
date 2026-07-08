@@ -35,8 +35,7 @@
 
 ## ☁️ Cloud & DevOps
 
-* AWS (Learning)
-* Azure DevOps
+* AWS, Azure DevOps
 * Git & GitHub
 
 ## 🔧 Tools
